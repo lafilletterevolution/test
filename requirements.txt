@@ -1,3 +1,0 @@
-voila
-ipywidgets
-docx2txt
